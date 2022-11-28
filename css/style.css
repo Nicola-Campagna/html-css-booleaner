@@ -6,7 +6,8 @@
 
 .figure-title{
     background-image: url("../img/img/pattern.png");
-    height: 180px;background-color: blue;
+    height: 180px;
+    background-color: blue;
     /* cambiare colore alla fine */
 
 }
@@ -17,16 +18,34 @@
     margin-top: 80px;
 }
 
+.article{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
 h1{
     font-size:50px;
 }
 
-.subtitle-main-title, .date-article{
+.subtitle-main-title{
     color: grey;
 }
+
 
 #subtitle-main-title{
     color: blue; 
     /* cambaire colore alla fine */
 }
 
+.data-article{
+     color: grey;
+    margin-bottom: 20px;
+}
+
+.tim{
+    width: 100%;
+}
+.tim img{
+    width: 45%;
+    height: 500px;
+}
