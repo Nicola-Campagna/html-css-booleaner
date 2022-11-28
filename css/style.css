@@ -18,8 +18,10 @@
     margin-top: 80px;
 }
 
+
 .article{
     margin-top: 10px;
+    margin-left: 10px;
 }
 
 h1{
@@ -49,7 +51,22 @@ h1{
     height: 500px;
 }
 
-.ul{
-    margin-left: 50px;
+.resource-img{
+    margin-bottom: 20px;
 }
 
+.ul{
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+
+footer{
+    color: grey;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+footer img{
+    margin-top: 5px;
+}
