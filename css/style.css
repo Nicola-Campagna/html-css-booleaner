@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.figure-title{
+    background-image: url("../img/img/pattern.png");
+    height: 180px;background-color: blue;
+
+}
+
+#logo-title{
+    width: 250px;
+    margin-left: 5px;
+    margin-top: 80px;
+}
