@@ -7,6 +7,7 @@
 .figure-title{
     background-image: url("../img/img/pattern.png");
     height: 180px;background-color: blue;
+    /* cambiare colore alla fine */
 
 }
 
@@ -15,3 +16,17 @@
     margin-left: 5px;
     margin-top: 80px;
 }
+
+h1{
+    font-size:50px;
+}
+
+.subtitle-main-title, .date-article{
+    color: grey;
+}
+
+#subtitle-main-title{
+    color: blue; 
+    /* cambaire colore alla fine */
+}
+
