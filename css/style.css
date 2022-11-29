@@ -4,89 +4,93 @@
 
 }
 
-.figure-title{
+.conteiner{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.main-header{
     background-image: url("../img/img/pattern.png");
-    height: 180px;
+    height: 150px;
     background-color: blue;
+    margin: 0 auto;
+    width: 1200px;
     /* cambiare colore alla fine */
 
 }
 
 #logo-title{
     width: 250px;
-    margin-left: 5px;
-    margin-top: 80px;
+    line-height: 150px;
+    vertical-align:middle;
+    /* margin-left: 5px;
+    margin-top: 80px; */
 }
 
 
-.article{
+/* .article{
     margin-top: 10px;
     margin-left: 10px;
-}
+} */
 
 h1{
-    font-size:50px;
+    font-size:40px;
 }
 
-.subtitle-main-title{
+.article-address{
     color: grey;
 }
 
-
-#subtitle-main-title{
-    color: blue; 
-    /* cambaire colore alla fine */
+.text-author a{
+    color: blue;
+    text-decoration: none;
 }
 
-.data-article{
-     color: grey;
-    margin-bottom: 20px;
-}
-
-.tim{
+/* .img-tim{
     width: 100%;
 }
 .tim img{
     width: 45%;
     height: 500px;
-}
+} */
 
 .resource-img{
     margin-bottom: 20px;
     font-size: 12px;
 }
-p{
+
+.lorem, .ul li{
     font-size: 20px;
+ 
 }
 
 .ul{
+    list-style-position: inside;
     margin-top: 20px;
-    margin-left: 20px;
     margin-bottom: 20px;
-    font-size: 20px;
-}
+} 
 
 .tabella{
-    width: 100%;
+   border-collapse: collapse;
+    text-align: left;
+    margin-bottom: 20px;
 }
 
-.tabella thead{
+.wh-50{
+    width: 50%;
+}
+
+.thead-title{
     color: white;
-    background-color:blue;  
+    background-color: blue
 }
 
-.tabella .tr-colored{
-    background-color: aqua;
+.style-row{
+    background-color:aqua;
 }
 
-footer{
-    color: grey;
-    margin-top: 50px;
-    margin-left: 10px;
-}
-
-footer img{
-    margin-top: 5px;
+.aside-foot{
+    margin-top: 20px;
 }
 
 
